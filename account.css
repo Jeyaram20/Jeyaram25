@@ -1,0 +1,19 @@
+.b ul li{list-style-type:none;display:inline-block; margin-bottom:10px;margin-right: 25px;text-align:right; background-color:brown;padding:5px;color:white;}
+li a{text-decoration:none;}h1 a{text-decoration:none;color:red}
+.b li {text-decoration:none; color:black;font-family:verdana;background-color:brown;margin-right:1px;}
+.b{background-color:brown;}
+.c ul li{list-style-type:none;display:inline-block;margin-right: 25px;text-align:right;margin-top:-30px;}
+.c li {text-decoration:none; color:white;font-family:verdana;margin-left:100px;}
+.l{list-style-type:none;display:inline-block; margin-bottom:10px;margin-right: 25px;text-align:right; background-color:brown;padding:5px;color:white;}
+h3{color:brown;}.b ul li a{color:white;}  .b ul li a:hover{color:darkblue;}
+.k{margin-top:180px;margin-left:600px;}
+
+.m {
+            background-color: orange;
+            color: white; 
+            border: none;
+            padding: 3px 10px;}
+.r{ margin-left:250px;}
+.t{margin-left:650px;margin-top:-170px;}
+.yi{margin-left:1080px;margin-top:-215px;}
+.qw{background-color:brown;color:white;padding:110px;}

@@ -1,0 +1,24 @@
+.b ul li{list-style-type:none;display:inline-block; margin-bottom:10px;margin-right: 20px;text-align:right; background-color:brown;padding:5px;color:white;}
+li a{text-decoration:none;}h1 a{text-decoration:none;color:red}
+.b li {text-decoration:none; color:black;font-family:verdana;background-color:brown;margin-right:1px;}
+.b{background-color:brown;}
+.c ul li{list-style-type:none;display:inline-block;margin-right: 25px;text-align:right;margin-top:-30px;}
+.c li {text-decoration:none; color:black;font-family:verdana;margin-left:100px;}
+.l{list-style-type:none;display:inline-block; margin-bottom:10px;margin-right: 25px;text-align:right; background-color:brown;padding:5px;color:white;}
+h3{color:brown;}
+.b ul li a{color:white;}  .b ul li a:hover{color:darkblue;} 
+ a:hover{color:orange;}
+.mn{display:grid ; margin-left:150px;grid-template-columns: 300px 300px  300px 300px ;
+column-gap: 3px; row-gap:60px;}
+
+h4{color:orange;}
+
+.jh{background-color: green;
+            color: white; 
+            border: none;
+            padding: 3px 10px;}
+.jh:hover{color:red;}
+.r{ margin-left:-350px;}
+.t{margin-left:500px;margin-top:-170px;}
+.yi{margin-left:1050px;margin-top:-325px;color:white;}
+.qw{background-color:brown;color:white;padding:110px;}

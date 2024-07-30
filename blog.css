@@ -1,0 +1,26 @@
+.b ul li{list-style-type:none;display:inline-block; margin-bottom:10px;margin-right: 25px;text-align:right; background-color:brown;padding:5px;color:white;}
+li a{text-decoration:none;}h1 a{text-decoration:none;color:red}
+.b li {text-decoration:none; color:black;font-family:verdana;background-color:brown;margin-right:1px;}
+.b{background-color:brown;}
+.c ul li{list-style-type:none;display:inline-block;margin-right: 25px;text-align:right;margin-top:-30px;}
+.c li {text-decoration:none; color:white;font-family:verdana;margin-left:100px;}
+.l{list-style-type:none;display:inline-block; margin-bottom:10px;margin-right: 25px;text-align:right; background-color:brown;padding:5px;color:white;}
+h3{color:brown;}
+.b ul li a{color:white;}  .b ul li a:hover{color:darkblue;}
+h2{color:red;}
+.d{display:grid;
+grid-template-columns: 720px 760px;
+line-height: 2.0;}
+.e{display:grid;
+grid-template-columns: 720px 720px;
+line-height: 2.0;}
+.f{display:grid;
+grid-template-columns: 720px 760px;
+line-height: 2.0;}
+.g{display:grid;
+grid-template-columns: 720px 720px;
+line-height: 2.0;}
+.r{ margin-left:80px;}
+.t{margin-left:550px;margin-top:-170px;}
+.yi{margin-left:920px;margin-top:-215px;}
+.qw{background-color:brown;color:white;padding:110px;}
